@@ -1,2 +1,2 @@
 # framstad.net
-website
+Personal website
